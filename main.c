@@ -5,12 +5,12 @@
 #include "funcoes.h"
 
 const char *INTEGRANTES[6] = {
-    "Andressa",
-    "Gabriel",
-    "Kauê",
-    "Thiago",
-    "Vitoria",
-    "Vinicius"
+    "Andressa Amaro de Oliveira",
+    "Gabriel Monteiro Gomes",
+    "Kauê Torres Pereira de Abrantes Gadelha",
+    "Thiago Henrique Nunes Antunes",
+    "Vitória Gonçalves da Silva",
+    "Vinicius Ruan Silva Siqueira"
 };
 
 void imprime_integrantes(void) {
